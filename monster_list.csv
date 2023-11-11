@@ -1,0 +1,20 @@
+monster_name,monster_level,monster_meanness,my_level,my_magic_level,my_number_of_items,monster_defeated
+Hircocervus,12,30,11,10,4,1
+Dragon,56,78,68,44,6,1
+Ogre,44,55,6,56,2,0
+Angry fish,78,10,66,3,1,0
+Hircocervus,3,93,15,10,3,1
+Angry fish,87,79,56,42,2,0
+Hircocervus,76,57,79,44,4,1
+Ogre,1,88,3,1,0,0
+Dragon,69,94,45,22,1,0
+Dark Elf,43,57,23,19,2,0
+Dragon,49,34,56,2,1,0
+Angry fish,12,22,12,13,4,0
+Hircocervus,16,88,77,44,7,1
+Basilisk,28,17,33,25,3,1
+Dark Elf,6,13,2,0,3,0
+Troll,41,67,33,25,10,1
+Troll,96,58,82,44,4,0
+Dark Elf,11,23,23,65,4,1
+Skeleton King,61,48,78,55,5,1
